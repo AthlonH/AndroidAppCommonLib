@@ -1,9 +1,9 @@
 # AndroidAppCommonLib
 Android App公共框架库
 
-##Android studio引入
+## Android studio引入
 
-###step1
+### step1
 	allprojects {
 		repositories {
 			...
@@ -11,7 +11,7 @@ Android App公共框架库
 		}
 	}
 
-###step2
+### step2
 	dependencies {
 	        implementation 'com.github.AthlonH:AndroidAppCommonLib:1.0.0'
 	}
